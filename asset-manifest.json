@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IMBD-rating/static/css/main.56946906.css",
+    "main.js": "/IMBD-rating/static/js/main.48811448.js",
+    "index.html": "/IMBD-rating/index.html",
+    "main.56946906.css.map": "/IMBD-rating/static/css/main.56946906.css.map",
+    "main.48811448.js.map": "/IMBD-rating/static/js/main.48811448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56946906.css",
+    "static/js/main.48811448.js"
+  ]
+}
